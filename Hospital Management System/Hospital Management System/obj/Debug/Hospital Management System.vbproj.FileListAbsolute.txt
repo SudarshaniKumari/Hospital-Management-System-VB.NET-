@@ -1,0 +1,19 @@
+C:\Users\DELL\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\DELL\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\DELL\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\bin\Debug\Hospital Management System.xml
+C:\Users\DELL\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.vbproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmAdminlog.resources
+C:\Users\DELL\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmdoctorloging.resources
+C:\Users\DELL\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmpage.resources
+C:\Users\DELL\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmstart.resources
+C:\Users\DELL\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.Resources.resources
+C:\Users\DELL\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.vbproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\DELL\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.xml
+C:\Users\DELL\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\DELL\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmdoctorpage.resources
+C:\Users\DELL\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmRoyalHospital.resources
+C:\Users\DELL\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmdoctor.resources
+C:\Users\DELL\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmpatient.resources
+C:\Users\DELL\Desktop\Hospital Management System\Hospital Management System\Hospital Management System\obj\Debug\Hospital_Management_System.frmnurse.resources
